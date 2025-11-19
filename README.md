@@ -1,4 +1,7 @@
-## Olá 👋, o meu nome é Salvador
+## Olá 👋
+##Sou estudante do primeiro ano do Curso de Programação na escola Profissional Oficina🏫
+------------------------------------------------------------------------------------------
+##Linkedin- www.linkedin.com/in/salvador-sacadura-aab382391
 
 <!--
 **14782-Salvador/14782-Salvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
