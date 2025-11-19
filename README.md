@@ -1,4 +1,4 @@
-##Hello👋
+HELLO👋
 
 I am a first-year student in the Programming Course at the Oficina school 🏫
 ------------------------------------------------------------------------------------------
