@@ -1,5 +1,5 @@
-## Olá 👋
-Sou estudante do primeiro ano do Curso de Programação na escola Oficina🏫
+##Hello 👋
+I am a first-year student in the Programming Course at the Oficina school 🏫
 ------------------------------------------------------------------------------------------
 
 Linkedin- www.linkedin.com/in/salvador-sacadura-aab382391
